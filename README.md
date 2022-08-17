@@ -1,3 +1,5 @@
 # SAJJAD-FREE01
 
 
+cd SAJJAD-FREE01
+
